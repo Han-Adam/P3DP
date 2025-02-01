@@ -1,1 +1,1 @@
-# P3DP
+Code for "Augmenting the Robustness of Tactical Maneuver Decision-Making in Unmanned Aerial Combat Vehicles during Dogfights via Prioritized Population Play with Diversified Partners" submitted to the IEEE TAES.
