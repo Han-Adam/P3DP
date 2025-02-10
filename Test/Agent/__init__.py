@@ -1,0 +1,1 @@
+from .self_play import TestAgent, TestAgent_SelfPlay
